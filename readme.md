@@ -6,7 +6,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
-## Contents
+## Contents:
 
 - [JavaScript References](#javascript-references)
 - [Articles & Tutorials](#articles--tutorials)
